@@ -1,7 +1,7 @@
 # Conceptos basicos de Next.js 
 
--Estructura de carpetas
--Diferencia entre Componentes de Servidor y de Cliente
+- Estructura de carpetas
+- Diferencia entre Componentes de Servidor y de Cliente
 - Ruteo básico
 - Rutas anidadas
 - Rutas dinámicas
