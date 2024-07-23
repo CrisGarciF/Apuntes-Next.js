@@ -1,5 +1,6 @@
 # Conceptos basicos de Next.js 
 
+- Typescript
 - Estructura de carpetas
 - Diferencia entre Componentes de Servidor y de Cliente
 - Ruteo básico
