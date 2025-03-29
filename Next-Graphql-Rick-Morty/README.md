@@ -4,6 +4,6 @@
 
 -Next.js
 
--Graphql
+- Graphql
 
--Js
+- Js
