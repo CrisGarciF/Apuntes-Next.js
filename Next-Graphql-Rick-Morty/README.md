@@ -1,8 +1,8 @@
 # Practica con Graphql
 
--Api:https://rickandmortyapi.com/graphql
+- Api:https://rickandmortyapi.com/graphql
 
--Next.js
+- Next.js
 
 - Graphql
 
