@@ -1,1 +1,1 @@
-# Notas de mi Aprendizaje con Next.js.
+# Notas de mi Aprendizaje con Next.js
